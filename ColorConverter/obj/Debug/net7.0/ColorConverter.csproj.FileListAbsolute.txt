@@ -1,0 +1,12 @@
+D:\repos\ColorConverter\ColorConverter\bin\Debug\net7.0\ColorConverter.deps.json
+D:\repos\ColorConverter\ColorConverter\bin\Debug\net7.0\ColorConverter.dll
+D:\repos\ColorConverter\ColorConverter\bin\Debug\net7.0\ColorConverter.pdb
+D:\repos\ColorConverter\ColorConverter\obj\Debug\net7.0\ColorConverter.csproj.AssemblyReference.cache
+D:\repos\ColorConverter\ColorConverter\obj\Debug\net7.0\ColorConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\ColorConverter\ColorConverter\obj\Debug\net7.0\ColorConverter.AssemblyInfoInputs.cache
+D:\repos\ColorConverter\ColorConverter\obj\Debug\net7.0\ColorConverter.AssemblyInfo.cs
+D:\repos\ColorConverter\ColorConverter\obj\Debug\net7.0\ColorConverter.csproj.CoreCompileInputs.cache
+D:\repos\ColorConverter\ColorConverter\obj\Debug\net7.0\ColorConverter.dll
+D:\repos\ColorConverter\ColorConverter\obj\Debug\net7.0\refint\ColorConverter.dll
+D:\repos\ColorConverter\ColorConverter\obj\Debug\net7.0\ColorConverter.pdb
+D:\repos\ColorConverter\ColorConverter\obj\Debug\net7.0\ref\ColorConverter.dll
